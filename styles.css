@@ -1,0 +1,15 @@
+body
+h1{
+    color:rgba(0, 0, 0, 0.766);
+    background-color: blueviolet;
+    color:red;
+    text-align:center;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+h1{
+    text-align: center;
+    background-color: aquamarine;
+}
